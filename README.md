@@ -33,7 +33,7 @@ I collaborate with academic researchers, PhD candidates, and Principal Data Scie
 If you are an academic or industry researcher drafting papers for upcoming peer-reviewed journals or IEEE/ACM conference tracks (SIGMOD, VLDB, ICDE, KDD) and require an experienced data engineer to architect the implementation, scale the data pipelines, or manage the cloud infrastructure:
 
 *   *What I bring:* 6 years of industry enterprise experience, production-grade data engineering, and complete ownership of the empirical system architecture or database implementation.
-*   *What I look for:* Collaborative partnerships leading to co-authorship opportunities targeting peer-reviewed publications to support my EB-1A profile.
+*   *What I look for:* Collaborative partnerships leading to co-authorship opportunities targeting peer-reviewed publications.
 
 Let's build scalable research together.
 
